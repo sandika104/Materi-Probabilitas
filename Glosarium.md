@@ -14,3 +14,7 @@ Law of Large Number =>  Ketika suatu probability experiment dilakukan secara ber
 Unusual Event => Event yang tidak umum; biasanya ketika nilai probability di angka 0.5 kebawah
 Range of Probability => Jangkauan kemungkinan; probability dari suatu event E akan memiliki jangkauan antara 0 sampai 1
 Complementary Events => Semua outcomes yang tidak disertaan pada event
+Conditional probability => Probabilitas kemunculan suatu event, dengan mengetahui bahwa event lain sudah muncul atau terjadi
+Independent Events => Event yang kemunculannya tidak dipengaruhi oleh event lainnya
+Dependent Events => Event yang kemunculannya dipengaruhi oleh event lainnya
+The Multiple Rule => Aturan yang bisa digunakan untuk mencari probabilitas dari dua events untuk muncul secara berurutan
