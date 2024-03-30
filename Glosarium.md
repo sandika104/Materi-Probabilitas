@@ -1,0 +1,16 @@
+## Glosarium
+Probabilitas => Pengukuran terhadap suatu kemungkinan atau peluang
+Sample Space => Himpunan dari seluruh kemungkinan outcome pada suatu probability experiment
+Event => Bagian dari sample space
+Outcome => Hasil dari suatu percobaan (trial)
+Probability Experiments => Aksi atau percobaan yang menghasilkan suatu perhitungan, pengukuran, atau respon
+Tree Diagram => Gambaran visual terkait setiap outcome dari probability experiments
+Simple Event => Suatu event yang hanya terdiri dari sebuah outcome
+Fundamental Counting Principle => Prinsip penghitungan untuk mengetahui jumlah kemungkinan outcomes dari dua atau lebih event yang muncul secara berurutan
+Classical (Theoretical) Probability => Ketika setiap outcomes pada sample space memiliki peluang yang sama untuk muncul
+Empirical (Statistical) Probability => Probabilitas yang didasarkan pada observasi dari probability experiments
+Subjective Probability => Probabilitas yang didasarkan pada intuisi, educated guesses, dan estimasi
+Law of Large Number =>  Ketika suatu probability experiment dilakukan secara berulang-ulang, maka nilai empirical probability yang dihasilkan akan mendekati nilai theoretical probability dari event tersebut
+Unusual Event => Event yang tidak umum; biasanya ketika nilai probability di angka 0.5 kebawah
+Range of Probability => Jangkauan kemungkinan; probability dari suatu event E akan memiliki jangkauan antara 0 sampai 1
+Complementary Events => Semua outcomes yang tidak disertaan pada event
