@@ -1,12 +1,12 @@
 ## Glosarium
-Probabilitas => Pengukuran terhadap suatu kemungkinan atau peluang
+Probabilitas/Probability => Pengukuran terhadap suatu kemungkinan atau peluang
+Probability Experiments => Aksi atau percobaan yang menghasilkan suatu perhitungan, pengukuran, atau respon
 Sample Space => Himpunan dari seluruh kemungkinan outcome pada suatu probability experiment
 Event => Bagian dari sample space
 Outcome => Hasil dari suatu percobaan (trial)
-Probability Experiments => Aksi atau percobaan yang menghasilkan suatu perhitungan, pengukuran, atau respon
 Tree Diagram => Gambaran visual terkait setiap outcome dari probability experiments
 Simple Event => Suatu event yang hanya terdiri dari sebuah outcome
-Fundamental Counting Principle => Prinsip penghitungan untuk mengetahui jumlah kemungkinan outcomes dari dua atau lebih event yang muncul secara berurutan
+Fundamental Counting Principle => Prinsip perhitungan untuk mengetahui jumlah kemungkinan outcomes dari dua atau lebih event yang muncul secara berurutan
 Classical (Theoretical) Probability => Ketika setiap outcomes pada sample space memiliki peluang yang sama untuk muncul
 Empirical (Statistical) Probability => Probabilitas yang didasarkan pada observasi dari probability experiments
 Subjective Probability => Probabilitas yang didasarkan pada intuisi, educated guesses, dan estimasi
@@ -18,3 +18,5 @@ Conditional probability => Probabilitas kemunculan suatu event, dengan mengetahu
 Independent Events => Event yang kemunculannya tidak dipengaruhi oleh event lainnya
 Dependent Events => Event yang kemunculannya dipengaruhi oleh event lainnya
 The Multiple Rule => Aturan yang bisa digunakan untuk mencari probabilitas dari dua events untuk muncul secara berurutan
+Mutually exclusive events => Events yang tidak muncul pada waktu yang bersamaan
+Not Mutually exclusive events => Events yang dapat muncul pada waktu yang bersamaan
