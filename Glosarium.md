@@ -24,3 +24,7 @@ Permutasi => Pengaturan urutan penyusunan sekumpulan objek unik (tidak duplikat)
 Permutasi: Formula => Permutasi pada pengaturan urutan penyusunan sejumlah **r** objek yang diambil dari sekumpulan **n** objek unik
 Permutasi: Duplikasi => Permutasi yang melibatkan kemunculan beberapa kali objek sejenis
 Kombinasi => Pemilihan sejumlah **r** objek dari sekumpulan **n** objek tanpa memperhatikan urutan
+Random Varible => Mengindikasikan bahwa nilai x ditentukan secara kebetulan (by chance)
+Discrete => Suatu kemungkinan outcomes dapat dihitung atau memiliki batasan (finite); seperti int
+Continuous => Suatu kemungkinan outcomes tidak dapat dihitung, umumnya direpresentasikan dengan nilai interval; seperti float
+Expected Value => Dimana nilai mean dari suatu random variable merepresentasikan apa yang bisa kita harapkan untuk diperoleh dari ribuan kali percobaan
