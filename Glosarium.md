@@ -28,3 +28,4 @@ Random Varible => Mengindikasikan bahwa nilai x ditentukan secara kebetulan (by 
 Discrete => Suatu kemungkinan outcomes dapat dihitung atau memiliki batasan (finite); seperti int
 Continuous => Suatu kemungkinan outcomes tidak dapat dihitung, umumnya direpresentasikan dengan nilai interval; seperti float
 Expected Value => Dimana nilai mean dari suatu random variable merepresentasikan apa yang bisa kita harapkan untuk diperoleh dari ribuan kali percobaan
+Binominal Experiments => Probability experiments yang hanya memiliki dua hasil
